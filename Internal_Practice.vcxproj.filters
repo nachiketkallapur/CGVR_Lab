@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="prog3.cpp">
+    <ClCompile Include="prog9.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
